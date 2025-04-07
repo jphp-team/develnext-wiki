@@ -16,6 +16,6 @@ echo "Welcome to $DevelNext";
 
 # Редактирование документации
 
-Вся документация написана с помощью Markdown языка разметки, все исходники документации хранятся в репозитории [https://github.com/jphp-compiler/develnext-wiki](https://github.com/jphp-compiler/develnext-wiki). 
+Вся документация написана с помощью Markdown языка разметки, все исходники документации хранятся в репозитории [https://github.com/jphp-team/develnext-wiki](https://github.com/jphp-team/develnext-wiki). 
 
 Документация автоматически обновляется при обновлении её репозитория, а это означает, что у каждого есть возможность внести свои изменения в неё через систему pull-request'ов на github.com, вы также можете добавлять новые статьи. 
